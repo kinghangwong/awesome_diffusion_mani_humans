@@ -1,9 +1,9 @@
 # awesome_diffusion_mani_humans
-Notable works in the intersection of diffusion, dexterous manipulation, human action synthesis works mostly for the purpose of transferring skills to embodied agents.
+This repo is a collection of works in the intersection of diffusion, dexterous manipulation, human action synthesis works mostly for the purpose of transferring skills to embodied agents.
 
 ## Table of Contents
 
-- [Awesome Diffusion Model in RL](#awesome-diffusion-model-in-rl)
+- [Awesome diffusion manipulation and human action synthesis works](# awesome_diffusion_mani_humans)
   - [Table of Contents](#table-of-contents)
   - [Papers](#papers)
     - [Arxiv](#arxiv)
@@ -13,16 +13,6 @@ Notable works in the intersection of diffusion, dexterous manipulation, human ac
 
 ---
 ## Papers
-
-```
-format:
-- [title](paper link) [links]
-  - author1, author2, and author3...
-  - publisher
-  - key 
-  - code 
-  - experiment environment
-```
 
 ### Arxiv
 
