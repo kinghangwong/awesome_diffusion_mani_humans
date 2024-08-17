@@ -1,20 +1,32 @@
 # awesome_diffusion_mani_humans
-This repo is a collection of works in the intersection of diffusion, dexterous manipulation, human action synthesis works mostly for the purpose of transferring skills to embodied agents.
+This repo is a collection of works in the intersection of diffusion, dexterous manipulation, human action synthesis works mostly for the purpose of transferring skills to embodied agents. The author of this repo sees some intimate links between them, and subsequently decided to make a github page with these.
 
 ## Table of Contents
 
 - [Awesome diffusion manipulation and human action synthesis works](#awesome_diffusion_mani_humans)
   - [Table of Contents](#table-of-contents)
-  - [Papers](#papers)
-    - [Arxiv](#arxiv)
+  - [Dexterous manipulation](#Dexterous manipulation)
+    - [2024](#2024)
+  - [Diffusion policy](#Diffusion policy)
+    - [2024](#2024) 
   - [License](#license)
 
 ![image info](./welcome.png)
 
 ---
-## Papers
+## Dexterous manipulation
 
-### Arxiv
+### 2024
+
+- [](https://arxiv.org/abs/2403.03954)
+  - Tsung-Wei Ke† Nikolaos Gkanatsios† Katerina Fragkiadaki
+  - Key: 3D Diffuser Actor, visual imitation learning
+  - Github: 3d-diffuser-actor.github.io
+  - ExpEnv: RLBench, CALVIN
+
+## Diffusion Policy
+
+### 2024
 
 - [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2403.03954)
   - Tsung-Wei Ke† Nikolaos Gkanatsios† Katerina Fragkiadaki
