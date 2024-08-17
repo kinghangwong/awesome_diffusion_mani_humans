@@ -3,7 +3,7 @@ This repo is a collection of works in the intersection of diffusion, dexterous m
 
 ## Table of Contents
 
-- [Awesome diffusion manipulation and human action synthesis works](# awesome_diffusion_mani_humans)
+- [Awesome diffusion manipulation and human action synthesis works](#awesome_diffusion_mani_humans)
   - [Table of Contents](#table-of-contents)
   - [Papers](#papers)
     - [Arxiv](#arxiv)
