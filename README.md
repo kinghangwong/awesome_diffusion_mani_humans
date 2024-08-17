@@ -1,6 +1,14 @@
 # awesome_diffusion_mani_humans
 Notable works in the intersection of diffusion, (dexterous) manipulation, human action generation
 
+## Table of Contents
+
+- [Awesome Diffusion Model in RL](#awesome-diffusion-model-in-rl)
+  - [Table of Contents](#table-of-contents)
+  - [Papers](#papers)
+    - [Arxiv](#arxiv)
+  - [License](#license)
+
 ![image info](./welcome.png)
 
 ---
@@ -22,3 +30,7 @@ format:
   - Yanjie Ze, Gu Zhang, Kangning Zhang, Chenyuan Hu, Muhan Wang, Huazhe Xu
   - Key: 3D Diffusion Policy, visual imitation learning
   - ExpEnv: MetaWorld, Adroit, DexArt
+
+## License
+
+Awesome Diffusion Model in RL is released under the Apache 2.0 license.
