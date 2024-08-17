@@ -1,5 +1,5 @@
 # awesome_diffusion_mani_humans
-Notable works in the intersection of diffusion, (dexterous) manipulation, human action generation
+Notable works in the intersection of diffusion, dexterous manipulation, human action synthesis works mostly for the purpose of transferring skills to embodied agents.
 
 ## Table of Contents
 
